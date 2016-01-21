@@ -1,0 +1,1 @@
+Rafylik Horoscope Parser с http://hyrax.ru/
